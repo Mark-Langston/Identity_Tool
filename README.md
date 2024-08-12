@@ -12,6 +12,14 @@ The Identity Tool is designed to showcase a straightforward method for retrievin
 - **CSV-Based Data**: User data is stored in a CSV file (`identities.csv`) for easy management.
 - **Dynamic Content**: PHP is used to dynamically generate content based on user input.
 
+## Video Demonstration
+
+Watch a video demonstration of the Identity Tool:
+
+[![Identity Tool Demo](https://img.youtube.com/vi/WnB9ZrczSdg/0.jpg)](https://youtu.be/WnB9ZrczSdg)
+
+*Click the image above to watch the video on YouTube.*
+
 ## Project Structure
 
 The Identity Tool is wrapped within the `pcpuppet.tech` site, but the relevant files for this tool are:
